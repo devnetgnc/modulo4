@@ -1,0 +1,38 @@
+{
+	"id": "e8500e81-1b6b-867f-8a6e-b3cc2cd9cb68",
+	"name": "mapquest_mod4",
+	"description": "",
+	"order": [
+		"6dd06914-84a2-b056-b629-aa2f0341cbd8"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1632597346506,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "6dd06914-84a2-b056-b629-aa2f0341cbd8",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "e8500e81-1b6b-867f-8a6e-b3cc2cd9cb68",
+			"data": null,
+			"dataMode": "params",
+			"name": "route",
+			"description": "dd",
+			"descriptionFormat": "html",
+			"time": 1632597412629,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
